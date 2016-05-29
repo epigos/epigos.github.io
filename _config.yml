@@ -10,7 +10,7 @@ url: "http://epigos.me" # the base hostname & protocol for your site
 twitter_username: epigos
 github_username:  epigos
 
-- permalink: pretty
+permalink: pretty
 
 # Build settings
 markdown: kramdown

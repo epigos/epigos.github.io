@@ -12,10 +12,6 @@ I have been programming over the last 6 years and I have built several apps, the
 
 I was also part of the mastermind team were we built and operated the-ghana-guide.com, a travelers information guide to Ghana. We also provided bulk SMS, online marketing and SEO to SME's in Ghana. MasterMind was selected as one of the best-run student companies in the world by the Kairos Society. We had the opportunity to pitch The Ghana Guide and Ahonya.com at the trading floor of the New York Stock Exchange during the Kairos Global Summit in February 2012.
 
-Am currently working with the [Ahonya.com][1] team, the amazon of Africa. Ahonya was launched over a year and a half ago by Gerard Yitamkey, myself and Addo Kufuor Mensah at our hostel room in the University of Cape Coast in Ghana. Since then, Ahonya has grown and now provides an unmatched online shopping experience in Ghana. Now with over 100,000 products from tablets and laptops, to designer dresses and other accessories.
-
-Early this year, Ahonya has raised a seed funding led by a Dubai-based investment firm, Rio Partners and our existing investors in Nairobi, Savannah Fund.
-
 **Developer Skills**
 
 I am specialised in Python, PHP, JavaScript, Perl, Data Science, Machine Learning algorithms.
